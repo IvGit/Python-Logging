@@ -1,0 +1,12 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 + 5 = 5
+DEBUG:root:Multi: 10 + 5 = 50
+DEBUG:root:Dvi: 10 + 5 = 2.0
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 + 5 = 5
+DEBUG:root:Multi: 10 + 5 = 50
+DEBUG:root:Dvi: 10 + 5 = 2.0
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 - 5 = 5
+DEBUG:root:Multi: 10 * 5 = 50
+DEBUG:root:Dvi: 10 / 5 = 2.0
